@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil 
 
-Heloisa De Oliveira Gama
+Meu nome é, Heloisa De Oli. Gama
 
 - Estou na [Alura]
 - Estou me desenvolvendo na linguagem JavaScript
